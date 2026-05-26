@@ -11,3 +11,5 @@ __pycache__/
 coverage/
 *.tsbuildinfo
 database/data/
+
+.vercel
